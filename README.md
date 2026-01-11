@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muhammad Farooq
 
-🚀 **Full-Stack Engineer | AI Automation & Agentic Systems Builder**
+🚀 **Full-Stack Engineer | AI Workflow Automation & Agentic Systems Builder**
 
 I design and build **production-ready, intelligent systems** that help businesses automate operations, scale reliably, and make smarter decisions.  
 My work sits at the intersection of **agentic AI, workflow automation, and robust full-stack engineering**.
